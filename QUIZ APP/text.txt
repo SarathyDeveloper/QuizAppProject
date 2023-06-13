@@ -1,0 +1,78 @@
+Web page editors works on a principle.
+
+(A) WWW
+
+(B) HTML
+
+(C) WYSIWYG
+
+(D) WYGWYSI
+
+Ans: C
+
+WYSIWYG
+
+
+
+
+Which program is used by web clients to view the web pages?
+
+(A) Web browser
+
+(B) Protocol
+
+(C) Web server
+
+(D) Search Engine
+
+Ans: A
+
+Web browser
+
+
+
+What is the name of the location address of the hypertext documents?
+
+(A) Uniform Resource Locator
+
+(B) Web server
+
+(C) File
+
+(D) Web address
+
+Ans: A
+
+Uniform Resource Locator
+
+
+What are shared on the Internet and are called as Web pages?
+
+(A) Programs
+
+(B) Cables
+
+(C) Hypertext documents
+
+(D) None
+
+Ans: C
+
+Hypertext documents
+
+
+
+How many colour names are used by the browsers?
+
+(A) 8
+
+(B) 10
+
+(C) 12
+
+(D) 16
+
+Ans: D
+
+16
+
